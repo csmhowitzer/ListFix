@@ -1,0 +1,14 @@
+/Users/wwmac/Documents/projects/examples/csharp/random/ListFix/ListFix/bin/Debug/net8.0/ListFix
+/Users/wwmac/Documents/projects/examples/csharp/random/ListFix/ListFix/bin/Debug/net8.0/ListFix.deps.json
+/Users/wwmac/Documents/projects/examples/csharp/random/ListFix/ListFix/bin/Debug/net8.0/ListFix.runtimeconfig.json
+/Users/wwmac/Documents/projects/examples/csharp/random/ListFix/ListFix/bin/Debug/net8.0/ListFix.dll
+/Users/wwmac/Documents/projects/examples/csharp/random/ListFix/ListFix/bin/Debug/net8.0/ListFix.pdb
+/Users/wwmac/Documents/projects/examples/csharp/random/ListFix/ListFix/obj/Debug/net8.0/ListFix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wwmac/Documents/projects/examples/csharp/random/ListFix/ListFix/obj/Debug/net8.0/ListFix.AssemblyInfoInputs.cache
+/Users/wwmac/Documents/projects/examples/csharp/random/ListFix/ListFix/obj/Debug/net8.0/ListFix.AssemblyInfo.cs
+/Users/wwmac/Documents/projects/examples/csharp/random/ListFix/ListFix/obj/Debug/net8.0/ListFix.csproj.CoreCompileInputs.cache
+/Users/wwmac/Documents/projects/examples/csharp/random/ListFix/ListFix/obj/Debug/net8.0/ListFix.dll
+/Users/wwmac/Documents/projects/examples/csharp/random/ListFix/ListFix/obj/Debug/net8.0/refint/ListFix.dll
+/Users/wwmac/Documents/projects/examples/csharp/random/ListFix/ListFix/obj/Debug/net8.0/ListFix.pdb
+/Users/wwmac/Documents/projects/examples/csharp/random/ListFix/ListFix/obj/Debug/net8.0/ListFix.genruntimeconfig.cache
+/Users/wwmac/Documents/projects/examples/csharp/random/ListFix/ListFix/obj/Debug/net8.0/ref/ListFix.dll
