@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/wwmac/.nuget/packages/": {}
+    "/Users/brandonholbert/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wwmac/Documents/projects/examples/csharp/random/ListFix/ListFix/ListFix.csproj",
+      "projectUniqueName": "/Users/brandonholbert/Documents/Projects/examples/csharp/random/listfix/ListFix/ListFix.csproj",
       "projectName": "ListFix",
-      "projectPath": "/Users/wwmac/Documents/projects/examples/csharp/random/ListFix/ListFix/ListFix.csproj",
-      "packagesPath": "/Users/wwmac/.nuget/packages/",
-      "outputPath": "/Users/wwmac/Documents/projects/examples/csharp/random/ListFix/ListFix/obj/",
+      "projectPath": "/Users/brandonholbert/Documents/Projects/examples/csharp/random/listfix/ListFix/ListFix.csproj",
+      "packagesPath": "/Users/brandonholbert/.nuget/packages/",
+      "outputPath": "/Users/brandonholbert/Documents/Projects/examples/csharp/random/listfix/ListFix/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/wwmac/.nuget/NuGet/NuGet.Config"
+        "/Users/brandonholbert/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
